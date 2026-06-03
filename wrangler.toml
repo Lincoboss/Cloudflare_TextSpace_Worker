@@ -1,4 +1,4 @@
-name = "text-disk"
+name = "text-disk-worker"
 main = "index.js"
 compatibility_date = "2026-06-02"
 keep_vars = true
