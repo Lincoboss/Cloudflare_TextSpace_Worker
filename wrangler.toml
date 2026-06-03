@@ -1,0 +1,14 @@
+name = "text-disk"
+main = "index.js"
+compatibility_date = "2026-06-02"
+keep_vars = true
+
+[[kv_namespaces]]
+binding = "KV"			#KV绑定名默认不可修改
+id = "00ea6888bc614ebea5c55634ebb7bf78"				#KV数据库id
+
+
+[[d1_databases]]
+binding = "DB"  # 变量名
+database_name = "text-disk"  # 数据库名称
+database_id = "6c8aa85c-4e1a-4399-a263-997b24d0114b"  # 数据库 ID
